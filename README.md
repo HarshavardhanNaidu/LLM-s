@@ -1,4 +1,19 @@
 # LLM-s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Large Language Models
 import boto3
 import sagemaker
